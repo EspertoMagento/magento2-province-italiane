@@ -1,8 +1,9 @@
 ## Magento 2 Province Italiane
 
-**Magento 2 Province Italiane** is special gift for Magento 2 Community Edition. Add province italiane to Italian select region.
+**Magento 2 Province Italiane** is special gift for Magento 2 Community Edition. 
+Add province italiane to Italian select region.
 
-Read more [Magento 2 Province Italiane](https://www.espertomagent.it/shop/magento2-province-italiane.html)
+Read more [Magento 2 Province Italiane](https://www.espertomagent.it/shop/estensioni-magento-2/province-italiane-per-magento-2)
 
 
 ## Overview
