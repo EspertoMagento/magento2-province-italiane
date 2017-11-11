@@ -43,6 +43,13 @@ php bin/magento cache:flush
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
 
 
+
+## How to active Province Italiane
+
+Once installed, the Province Italiane module will configure automatically.
+
+
+
 ## Supported Magento versions
 
 - Magento v2.0.0
