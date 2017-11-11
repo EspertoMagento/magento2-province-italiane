@@ -77,4 +77,6 @@ Once installed, the Province Italiane module will configure automatically.
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
-
+- Magento v2.1.9
+- Magento v2.2.0
+- Magento v2.2.1
