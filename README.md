@@ -19,7 +19,7 @@ Install Magento 2 Province Italiane via composer is never easier.
 **Install Province Italiane**:
 
 ```
-composer require espertomagento/magento2-province-italiane
+composer require espertomagento/magento2-province-italiane:dev-master
 php bin/magento cache:clean
 php bin/magento cache:flush
 
@@ -90,3 +90,5 @@ Once installed, the Province Italiane module will configure automatically.
 - Magento v2.2.9
 - Magento v2.3.0
 - Magento v2.3.1
+- Magento v2.3.2
+- Magento v2.3.3
